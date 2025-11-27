@@ -25,7 +25,14 @@ Li pèmèt yon pwofwesyonèl kreye yon kont epi jwenn kliyan.
 
 
 # Endispansab
-- [ ] Itilizatè a kapab konekte
-- [ ] Itilizatè a kapab kreye yon kont
+- [X] Itilizatè a kapab konekte
+- [X] Itilizatè a kapab kreye yon kont
+- [X] Itilizatè a kapab modifye Modpas li
+- [X] Itilizatè a kapab verifye sèvis ki genyen yo
 - [ ] Itilizatè a kapab modifye pwofil li
 - [ ] Itilizatè a kapab pataje lokalizasyon li
+- [ ] Itilizatè a kapab gen aksè aveèk bwat mesaj li
+
+# Sa nou te ka genyen
+- [ ] Itilizatè a kapab konekte kont MonCash / NatCash li
+- [ ] Itilizatè a kapab 
